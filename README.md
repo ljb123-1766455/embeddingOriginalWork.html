@@ -7,7 +7,7 @@
    <head>
    <body>
      <h1>Hello world</h1>
-      <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiE0duenO7dAhW0MX0KHQbTCJEQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHeart_(symbol)&psig=AOvVaw2Yd6XKpLmMMHM8yNXY5qu4&ust=1538791783191743" alt="Smiley face" height="42" width="42">
+      <img src="https://www.google.com/search?rlz=1C1GCEA_enUS810US810&biw=1920&bih=925&tbm=isch&sa=1&ei=98a2W_6qN5G80PEPqJe0wAU&q=heart+image&oq=heart+image&gs_l=img.3...0.0..238407...0.0..0.0.0.......1......gws-wiz-img.MfWJN9FCMQY#imgrc=mwrc-M2roMQrnM:" alt="Smiley face" height="42" width="42">
       <audio controls>
   <source src="horse.ogg" type="audio/ogg">
   <source src="horse.mp3" type="audio/mpeg">
