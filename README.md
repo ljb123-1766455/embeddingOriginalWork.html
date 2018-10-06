@@ -8,7 +8,7 @@
    <body>
      <h1>Hello world</h1>
      
-      <img src="heart.jpg" alt="heart">
+      <img src="www.w3cschool.cn/images/boat.gif" alt="heart">
                                      
       <a href ="http://www.google.cn/maps/">
          <iFrame alt="googlemap">
