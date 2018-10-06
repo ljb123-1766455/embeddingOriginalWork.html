@@ -8,11 +8,8 @@
    <body>
      <h1>Hello world</h1>
      
-      <img src="www.w3cschool.cn/images/boat.gif" alt="heart">
+  <img src="www.w3cschool.cn/images/boat.gif" alt="heart">
                                      
-      <a href ="http://www.google.cn/maps/">
-         <iFrame alt="googlemap">
-      </a>
  <audio controls>
   <source src="horse.ogg" type="audio/ogg">
 </audio>
