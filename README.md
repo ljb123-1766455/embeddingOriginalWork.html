@@ -8,14 +8,12 @@
    <body>
      <h1>Hello world</h1>
      
-  <img src="www.w3cschool.cn/images/boat.gif" alt="heart">
+  <img src="www.w3cschool.cn/images/boat.gise.of" alt="heart">
                                      
  <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
+  <source src="horgg" type="audio/ogg">
 </audio>
-      <video>
-  <source src="https://www.youtube.com/watch?v=pynDvIsLoU0" type="video/mp4" alt="soccer">
-</video>
+      <object href=https://www.youtube.com/watch?v=pynDvIsLoU0>
    </body>
 </html>
 
