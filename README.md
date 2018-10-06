@@ -10,7 +10,7 @@
      
   <img src="www.w3cschool.cn/images/boat.gif" alt="heart">
                                      
-   <embed src="https://www.youtube.com/watch?v=pynDvIsLoU0" width="480" height="400" type="application/x-shockwave-flash"> </embed> 
+<embed src="http://player.youku.com/player.php/sid/XMzI2NTc4NTMy/v.swf" width="480" height="400" type="application/x-shockwave-flash"> </embed> 
    </body>
 </html>
 
